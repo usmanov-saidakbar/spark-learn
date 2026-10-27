@@ -1,0 +1,6 @@
+pyspark
+pandas
+pyarrow
+grpcio
+grpcio-status
+pyspark[connect]
