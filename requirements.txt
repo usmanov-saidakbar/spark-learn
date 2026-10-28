@@ -1,6 +1,9 @@
-pyspark
-pandas
+pyspark[connect]==4.2.0
+delta-spark
+pandas<3
+numpy
 pyarrow
 grpcio
 grpcio-status
-pyspark[connect]
+pytest
+ipykernel
